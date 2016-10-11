@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<OpenViews>
+	<View Key="L1800_DigitalAnalogInput" Type="2" LineNr="233"/>
+	<View Key="RO041_RelaisOut" Type="2" LineNr="234"/>
+	<View Key="L1799_Backplane_11_15" Type="0"/>
+	<View Key="AnalogOut_DigitalOut" Type="0"/>
+	<View Key="RO041_Relais" Type="0"/>
+	<View Key="RelaisOut2" Type="0"/>
+	<View Key="VI_RelaisOut" Type="0"/>
+	<View Key="DEETestClass" Type="2" LineNr="11"/>
+	<View Key="L1799_Backplane_1_5" Type="0"/>
+	<View Key="L1804_Netzspannung" Type="0"/>
+	<View Key="L1804_StrobeLatch" Type="2" LineNr="46"/>
+	<View Key="L1804Supply" Type="2" LineNr="34"/>
+	<View Key="CPU_AnalogIn" Type="0"/>
+	<View Key="L1802_RelaisOuput" Type="2" LineNr="20"/>
+	<View Key="L1803_AnalogOutput" Type="2" LineNr="318"/>
+	<View Key="L1801_Output24V" Type="2" LineNr="79"/>
+	<View Key="Graphical Hardware Editor" Type="17"/>
+	<View Key="L1799_Backplane_16_20" Type="0"/>
+	<View Key="L1799_Backplane_6_10" Type="0"/>
+	<View Key="PlexAnalogIn" Type="2" LineNr="27"/>
+	<View Key="LatchSwitch" Type="2" LineNr="101"/>
+	<View Key="CIV521" Type="2" LineNr="681"/>
+	<View Key="DEE_Energieerfassung" Type="0"/>
+	<View Key="PlexAnalogOut" Type="2" LineNr="52"/>
+	<View Key="TestDrehstrom" Type="2" LineNr="10"/>
+	<View Key="L1799_Backplane_1_5" Type="0"/>
+	<Setting Variable="OutputDebugger" Value="0"/>
+</OpenViews>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WatchVariable>
+	<Variable Name="L1800_1_DigitalAnalogInput_1" Expand="1">
+		<ChildVar Name="ClassSvr"/>
+		<ChildVar Name="svrDI"/>
+		<ChildVar Name="svrAI"/>
+		<ChildVar Name="svrDIAIPos"/>
+		<ChildVar Name="svrDIAINeg"/>
+		<ChildVar Name="svrLockPlex"/>
+		<ChildVar Name="Counter"/>
+		<ChildVar Name="Offset"/>
+		<ChildVar Name="SimulationMode"/>
+		<ChildVar Name="PLEX_AINS1"/>
+		<ChildVar Name="PLEX_AINS2"/>
+		<ChildVar Name="PLEX_AINS3"/>
+		<ChildVar Name="PLEX_AINS4"/>
+		<ChildVar Name="PLEX_AING1"/>
+		<ChildVar Name="cltAINFastNeg"/>
+		<ChildVar Name="cltAINFastPos"/>
+		<ChildVar Name="cltAINAccurate"/>
+		<ChildVar Name="MuxValue"/>
+		<ChildVar Name="Quotient"/>
+		<ChildVar Name="StatusDigital"/>
+		<ChildVar Name="MultFaktorDigital"/>
+		<ChildVar Name="GesamtstatusDigital"/>
+		<ChildVar Name="StepState"/>
+		<ChildVar Name="stateActivated"/>
+		<ChildVar Name="MultFaktorAnalog"/>
+		<ChildVar Name="GesamtwertAnalogPos"/>
+		<ChildVar Name="GesamtwertAnalogNeg"/>
+		<ChildVar Name="ValueAnalogPos"/>
+		<ChildVar Name="ValueAnalogNeg"/>
+		<ChildVar Name="NextStep"/>
+		<ChildVar Name="DIArray"/>
+		<ChildVar Name="AIArray"/>
+		<ChildVar Name="DIAINegArray"/>
+		<ChildVar Name="DIAIPosArray"/>
+		<ChildVar Name="LocalCounter"/>
+		<ChildVar Name="CorrCounter"/>
+	</Variable>
+</WatchVariable>

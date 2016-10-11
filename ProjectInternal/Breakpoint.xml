@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Breakpoints>
+	<BP ClassName="L1800_DigitalAnalogInput" SrcName=".\Class\L1800_DigitalAnalogInput\L1800_DigitalAnalogInput.st" Line="175" LineOffset="180" OffsetAddr="-1" State="65536" ObjectCondition="" Condition="" ConditionCount="0"/>
+</Breakpoints>
